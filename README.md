@@ -1,7 +1,6 @@
 # 🧠 Brain Tumour Segmentation — U-Net + ResNet34
 
 > Automated brain tumour segmentation from MRI scans using deep learning.  
-> University Assignment Project | Medical Image Analysis
 
 ---
 
@@ -140,5 +139,3 @@ Open `main.ipynb` in VS Code or Jupyter and run all cells sequentially.
 ---
 
 ## 📜 License
-
-This project is for academic purposes only.
